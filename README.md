@@ -38,6 +38,10 @@ php artisan serve
 
 Untuk belajar cara membuat website tersebut dari dasar silahkan follow github ini https://github.com/drehimself/laravel-ecommerce-example
 
+### Contributor:
+1. Rizky Syawal - Backend
+2. Yasmin Lukman - Frontend
+
 ### Homepage
 ![One](https://i.ibb.co/mJQGs7B/A4438-C91-D92-B-4142-9-FE4-CAE17113-CD1-A.jpg)
 
